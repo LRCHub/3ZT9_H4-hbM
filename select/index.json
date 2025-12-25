@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "You Make It Feel Like Christmas",
+  "base_artist": "Gwen Stefani",
+  "createdAt": "2025-12-25T12:04:22.030986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/01_You_Make_It_Feel_Like_Christmas_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Diamond, Neil",
+      "has_synced": true,
+      "path": "select/02_You_Make_It_Feel_Like_Christmas_Diamond,_Neil.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/03_You_Make_It_Feel_Like_Christmas_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/04_You_Make_It_Feel_Like_Christmas_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/05_You_Make_It_Feel_Like_Christmas_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/06_You_Make_It_Feel_Like_Christmas_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/07_You_Make_It_Feel_Like_Christmas_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Diamond, Neil",
+      "has_synced": true,
+      "path": "select/08_You_Make_It_Feel_Like_Christmas_Diamond,_Neil.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/09_You_Make_It_Feel_Like_Christmas_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Make It Feel Like Christmas",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/10_You_Make_It_Feel_Like_Christmas_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Make It Feel like Christmas",
+      "artist": "Kiri T",
+      "has_synced": true,
+      "path": "select/11_You_Make_It_Feel_like_Christmas_Kiri_T.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You Make It Feel Like Christmas [feat. Blake Shelton]",
+      "artist": "Gwen Stefani",
+      "has_synced": false,
+      "path": "select/pl_01_You_Make_It_Feel_Like_Christmas_[feat._Blake_Shelton]_Gwen_Stefani.txt"
+    }
+  ]
+}
